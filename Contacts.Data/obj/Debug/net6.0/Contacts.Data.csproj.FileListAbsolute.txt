@@ -1,0 +1,12 @@
+C:\Users\MSuser\demos\ExamPrep\Exam-02-02\Contacts.Data\bin\Debug\net6.0\Contacts.Data.deps.json
+C:\Users\MSuser\demos\ExamPrep\Exam-02-02\Contacts.Data\bin\Debug\net6.0\Contacts.Data.dll
+C:\Users\MSuser\demos\ExamPrep\Exam-02-02\Contacts.Data\bin\Debug\net6.0\Contacts.Data.pdb
+C:\Users\MSuser\demos\ExamPrep\Exam-02-02\Contacts.Data\obj\Debug\net6.0\Contacts.Data.csproj.AssemblyReference.cache
+C:\Users\MSuser\demos\ExamPrep\Exam-02-02\Contacts.Data\obj\Debug\net6.0\Contacts.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSuser\demos\ExamPrep\Exam-02-02\Contacts.Data\obj\Debug\net6.0\Contacts.Data.AssemblyInfoInputs.cache
+C:\Users\MSuser\demos\ExamPrep\Exam-02-02\Contacts.Data\obj\Debug\net6.0\Contacts.Data.AssemblyInfo.cs
+C:\Users\MSuser\demos\ExamPrep\Exam-02-02\Contacts.Data\obj\Debug\net6.0\Contacts.Data.csproj.CoreCompileInputs.cache
+C:\Users\MSuser\demos\ExamPrep\Exam-02-02\Contacts.Data\obj\Debug\net6.0\Contacts.Data.dll
+C:\Users\MSuser\demos\ExamPrep\Exam-02-02\Contacts.Data\obj\Debug\net6.0\refint\Contacts.Data.dll
+C:\Users\MSuser\demos\ExamPrep\Exam-02-02\Contacts.Data\obj\Debug\net6.0\Contacts.Data.pdb
+C:\Users\MSuser\demos\ExamPrep\Exam-02-02\Contacts.Data\obj\Debug\net6.0\ref\Contacts.Data.dll
